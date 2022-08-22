@@ -1,0 +1,5 @@
+
+pip install flet
+pip install pyinstaller  
+
+pyinstaller your_program.py --noconsole --noconfirm --onefile
